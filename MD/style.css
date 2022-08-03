@@ -1,0 +1,76 @@
+s.banner {
+    display: inline;
+    
+
+}
+#student{
+    width: 407px;
+    height: 270px;
+}
+#classroom {
+    width: 505px;
+    height: 270px;
+
+}
+
+#school {
+    width: 410px;
+    height: 270px;
+}.centered {
+
+    text-align:center;
+    font-size: 40px; 
+    position: absolute;   
+    top: 10%;
+    left: 15%;
+    color: rgb(236,240,229);
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.kk_bg31 {
+    background-color: #fff;
+    padding: 15px
+}
+
+
+.kk_evnt {
+    font-family: Futurist-Fixed-width;
+    font-size: 38px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #fff
+}
+
+.section-evnt:before {
+    content: "";
+    height: 2px;
+    width: 80px;
+    background-color: #f6ad3e;
+    position: absolute;
+    bottom: -1px;
+    left: 47%
+}
+
+.kk_evnt_p {
+    font-weight: 500;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 4px;
+    color: #fff
+}
+
+.section-evnt {
+    position: relative;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: Futurist-Fixed-width;
+    color: rgb(92, 82, 82);
+}
